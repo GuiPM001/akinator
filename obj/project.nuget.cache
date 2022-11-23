@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "BJoj3Ye18BN9HWVYB6qhiEJ0M8hYKkcsgTmqQTFtAfcaq0Y1QsKjP08HBrwp0Jeb3jB9DQDT9/dFKQiMvz/91Q==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Guilherme\\Projetos\\Akinator\\Akinator\\Akinator.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Guilherme\\.nuget\\packages\\documentformat.openxml\\2.17.1\\documentformat.openxml.2.17.1.nupkg.sha512",
+    "C:\\Users\\Guilherme\\.nuget\\packages\\system.io.packaging\\4.7.0\\system.io.packaging.4.7.0.nupkg.sha512"
+  ],
+  "logs": []
+}
